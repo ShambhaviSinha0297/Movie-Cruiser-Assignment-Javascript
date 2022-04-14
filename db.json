@@ -1,0 +1,105 @@
+{
+  "movies": [
+    {
+      "voteCount": 74,
+      "popularity": 5.000945,
+      "video": false,
+      "voteAverage": 5,
+      "id": 1101,
+      "name": "Sleepless in Seatle",
+      "posterpath": "../images/imag1.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "overview": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie",
+      "releaseDate": "2008-08-2"
+    },
+    {
+      "voteCount": 74,
+      "popularity": 5.000945,
+      "video": false,
+      "voteAverage": 5,
+      "id": 1102,
+      "name": "You've Got Mail",
+      "posterpath": "../images/img2.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "overview": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie",
+      "releaseDate": "2008-08-2"
+    },
+    {
+      "voteCount": 74,
+      "popularity": 5.000945,
+      "video": false,
+      "voteAverage": 5,
+      "id": 1103,
+      "name": "Titanic",
+      "posterpath": "../images/img3.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "overview": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie",
+      "releaseDate": "2008-08-2"
+    },
+    {
+      "voteCount": 74,
+      "popularity": 5.000945,
+      "video": false,
+      "voteAverage": 5,
+      "id": 1104,
+      "name": "Twilight",
+      "posterpath": "../images/img4.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "overview": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie",
+      "releaseDate": "2008-08-2"
+    },
+    {
+      "voteCount": 74,
+      "popularity": 5.000945,
+      "video": false,
+      "voteAverage": 5,
+      "id": 1105,
+      "name": "A Time to Remember",
+      "year": 2003,
+      "posterpath": "../images/img5.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "overview": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie",
+      "releaseDate": "2008-08-2"
+    }
+  ],
+  "favourites": [
+    {
+      "voteCount": 74,
+      "popularity": 5.000945,
+      "video": false,
+      "voteAverage": 5,
+      "id": 1104,
+      "name": "Twilight",
+      "posterpath": "../images/img4.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "overview": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie",
+      "releaseDate": "2008-08-2"
+    },
+    {
+      "voteCount": 74,
+      "popularity": 5.000945,
+      "video": false,
+      "voteAverage": 5,
+      "id": 1101,
+      "name": "Sleepless in Seatle",
+      "posterpath": "../images/imag1.jpg",
+      "originalLanguage": "en",
+      "originalTitle": "The Cheetah Girls: One World",
+      "adult": false,
+      "overview": "Chanel, Dorinda, and Aqua, are off to India to star in a Bollywood movie. But when there they discover that they will have to compete against each other to get the role in the movie",
+      "releaseDate": "2008-08-2"
+    }
+  ]
+}
